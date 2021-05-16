@@ -1,0 +1,18 @@
+<resources>
+    <color name="color">#fbd420</color>
+    <string name="title">CSO Cugir</string>
+    <string name="infoFreeHours">Alege o oră:</string>
+    <string name="info">Ce vrei să inchiriezi?</string>
+    <string name="question">La ce oră vrei să închiriezi?</string>
+    <string name="btnCheckFreeHours">Vezi orele libere</string>
+    <string name="app_name">CSO Închirieri</string>
+    <string name="sumar">Sumar</string>
+    <string name="final_optiune">Închiriere teren de:</string>
+    <string name="final_data">Data:</string>
+    <string name="final_ora">În intervalul:</string>
+    <string name="btnFinish">Închiriază</string>
+    <string name="nume">Nume:</string>
+    <string name="telefon">Număr de telefon:</string>
+    <string name="alegeterentenis">Ce teren de tenis doriți?</string>
+    <string name="option">Opțiune:</string>
+</resources>
